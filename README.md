@@ -15,28 +15,6 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
-<a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
+<a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/attachments/978744400337317958/1167926738030973108/yakindaa-1140x501.jpg?ex=654fe789&is=653d7289&hm=2da840fa5df680090bb2cafc75a1690acfb2bf1151e1577df6196f059066a004&" /> </a>
  </h2>
 </br>
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00DCFF&repeat=false&background=69FF2000&center=true&vCenter=true&width=435&lines=Badge's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/emojis/963191315049353297.gif?size=128&quality=lossless" />
- </h2>
-</br>
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
-
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
-
-<h2 align="center">
- <a href="https://discord.com/users/692370393071091713"><img  width="400px" src="https://lanyard.kyrie25.me/api/692370393071091713?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me"></a>
