@@ -17,4 +17,4 @@
 <h2 align="center">
 <a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/attachments/978744400337317958/1167926738030973108/yakindaa-1140x501.jpg?ex=654fe789&is=653d7289&hm=2da840fa5df680090bb2cafc75a1690acfb2bf1151e1577df6196f059066a004&" /> </a>
  </h2>
-</br>
+ 
