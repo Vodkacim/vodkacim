@@ -15,5 +15,5 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
-<a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/attachments/978744400337317958/1168492454836707430/just1875kucuk.png?ex=6551f666&is=653f8166&hm=99def6258cfe2cff5af45502beca86e000dcda9c9840008634e1143656022997&" /> </a>
+<a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/attachments/978744400337317958/1168494648029892688/just1875-photoaidcom-cropped.png?ex=6551f871&is=653f8371&hm=478678553ab899ede52e77502a30f4df822a5d52397ffd00466d6d68ac9a0690&" /> </a>
 </h2>
