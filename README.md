@@ -8,12 +8,3 @@
   <a align="center" href="https://open.spotify.com/user/31yrx47pqerj6mzdpyzrnzvet46y?si=97ebe8ac8ef54529" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a align="center" href="https://www.instagram.com/only_vodka01" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br> </br>
-
- 
-
-
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
-<h2 align="center">
-<a href="https://discord.gg/1875" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/attachments/978744400337317958/1168494648029892688/just1875-photoaidcom-cropped.png?ex=6551f871&is=653f8371&hm=478678553ab899ede52e77502a30f4df822a5d52397ffd00466d6d68ac9a0690&" /> </a>
-</h2>
